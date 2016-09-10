@@ -1,0 +1,18 @@
+{
+  "name": "github-issue-pull",
+  "version": "0.0.0",
+  "description": "pull stream of github issues by issue, repo, or org",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*"
+  },
+  "keywords": [
+    "issue",
+    "github",
+    "fetch",
+    "pull",
+    "stream"
+  ],
+  "author": "Stephen Whitmore <stephen.whitmore@gmail.com>",
+  "license": "ISC"
+}
